@@ -1,0 +1,12 @@
+{
+  "name": "jevgaurd",
+  "version": "1.0.0",
+  "description": "an undetectable adGaurd powered by a systemOne AI",
+  "license": "ISC",
+  "author": "Anmol",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
